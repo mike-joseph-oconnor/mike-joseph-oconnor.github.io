@@ -5,6 +5,7 @@ tags: [technical writing]
 mathjax:  "true"
 ---
 
+<h1>Introduction:</h1>
 The purpose of this report was to measure the time spent releasing records using [legacy printer solution], and establish a baseline to compare to future technologies. The report has been stripped of substantive detail and reduced to high level steps.
 
 The workflow for using [legacy printer] is comprised of a series of 5 tasks:
