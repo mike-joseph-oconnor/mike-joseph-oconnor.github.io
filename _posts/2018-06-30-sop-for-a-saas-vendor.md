@@ -4,7 +4,7 @@ date: 2018-06-30
 tags: [technical writing]
 ---
 
-The purpose of this document was to simplify procedural documentation for a release of information vendor. The document was part of an ongoing effort to streamline operations. The administrators who referenced this document increased their productivity. This improved the turnaround time for the average request for records and positively impacted client metrics. The contents have been modified to omit propriety information.
+The purpose of this document was to simplify procedural documentation for a release of information vendor. The document was part of an ongoing effort to improve operational efficiency. The administrators who referenced this document increased their productivity. This improved the turnaround time for the average request for medical records and positively impacted KPIs. The contents have been modified to omit propriety information.
 
 <style>
 #toc_container {
