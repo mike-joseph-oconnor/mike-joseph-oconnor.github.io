@@ -109,19 +109,19 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:mike.oconnor.j@gmail.com
+      url:  mailto:mike.oconnor.j@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://actandwin.com"
+      url:  "https://actandwin.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-            "https://twitter.com/MikeOC_"
+      url:  "https://twitter.com/MikeOC_"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      "https://github.com/mike-joseph-oconnor"
+      url:  "https://github.com/mike-joseph-oconnor"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
