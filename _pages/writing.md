@@ -1,7 +1,7 @@
 ---
 layout: archive
-permalink:  /writing-portfolio/
-title:  "Writing Portfolio"
+permalink:  /writing/
+title:  "Writing"
 author_profile: true
 header:
   image:  "/images/tree.jpg"
