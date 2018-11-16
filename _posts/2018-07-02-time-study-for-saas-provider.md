@@ -5,7 +5,7 @@ tags: [technical writing]
 mathjax:  "true"
 ---
 
-The purpose of this report was to measure the time spent releasing records using [legacy printer solution], and establish a baseline to compare to future technologies.
+The purpose of this report was to measure the time spent releasing records using [legacy printer solution], and establish a baseline to compare to future technologies. The report has been stripped of substantive detail and reduced to high level steps.
 
 The workflow for using [legacy printer] is comprised of a series of 5 tasks:
   - Document selection
@@ -15,25 +15,22 @@ The workflow for using [legacy printer] is comprised of a series of 5 tasks:
   - Uploading
 
 <h3>Document selection:</h3>
-  - Look up the patient in the [EMR] using their [EMR] ID
-  - Filter the chart as needed
-  - Compile records
-
+  - Look up the patient in the [EMR] using their primary demographic information
+  - Open the electronic chart module
+  - Filter the patient's data
+  - Compile the necessary records
 
 <h3>Printing:</h3>
-  - Save records to a file on the virtual desktop
-  - Navigate to that directory, open the files, then print them
+  - Print the records to the designated directory on your virtual desktop using [legacy printer]
 
 <h3>Scanning</h3>
   - Scan and grab the tiff files to pull them into the [proprietary feature] interface
 
-
 <h3>QC’ing:</h3>
   - Review the documents for compliance
 
-
 <h3>Uploading</h3>
-  - Accept and upload the records to [vendor platform]
+  - Accept and upload the records to [vendor server]
 
 <h3>Summary:</h3>
 3 tasks account for most of the time spent in the [legacy printer] workflow

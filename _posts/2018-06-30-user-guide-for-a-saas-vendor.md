@@ -1,5 +1,5 @@
 ---
-title: SOP for a SaaS Provider
+title: User Guide for a SaaS Provider
 date: 2018-06-30
 tags: [technical writing]
 ---
